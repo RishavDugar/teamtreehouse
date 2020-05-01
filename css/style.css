@@ -270,6 +270,8 @@ video {
   padding-left: 21rem;
   padding-right: 3rem;
   padding-bottom: 10rem; }
+  video:focus {
+    outline: none; }
 
 .footer {
   height: 38vh;
